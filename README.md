@@ -7,13 +7,13 @@ The objective of the game is to guess whether the sum of two rolled dice is odd 
 
 ## Rules:
 
-* A dealer rolls two dice.
+* A dealer rolls two dice :game_die: :game_die:.
 
-* Each player will guess whether the sum of the two dice rolled is odd or even.
+* Each player will guess whether the sum of the two dice rolled is odd or even :question:.
 
-* The player who guesses correctly wins the round and takes a point.
+* The player who guesses correctly wins the round and takes a point :trophy:.
 
-* The game continues until the rounds are over.
+* The game continues until the rounds are over :repeat:.
 
 ## Getting Started
 
