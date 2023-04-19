@@ -19,7 +19,7 @@ The objective of the game is to guess whether the sum of two rolled dice is odd 
 
 If you would like to access the code, clone this repository to your local machine:
 ```
-https://github.com/no-kris/DollarStoreStructures.git
+git clone https://github.com/no-kris/ChoHan.git
 ```
 Or you can also download the zip file :file_folder: and extract it somewhere on your computer :computer:
 
